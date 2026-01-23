@@ -1,5 +1,6 @@
 # AgriHelp - Agricultural AI Assistant
-
+---
+<img src="images/backhome.png" width="990" align="center">
 An intelligent agricultural assistant application that helps farmers diagnose crop diseases, get farming advice, and receive treatment recommendations in multiple languages (Darija, Arabic, French).
 
 ## 🌟 Features
